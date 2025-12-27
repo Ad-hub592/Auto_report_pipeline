@@ -1,0 +1,31 @@
+                Daily Sales Report
+-----------------------------------------------------
+Product Name: Laptop
+Price: 30000.0
+Quantity Sold: 4
+Total Sales for Laptop: 120000.0
+------------------------------------------------------
+Product Name: Mouse
+Price: 2000.0
+Quantity Sold: 6
+Total Sales for mouse: 12000.0
+------------------------------------------------------
+Product Name: Keyboard
+Price: 3000.0
+Quantity Sold: 5
+Total Sales for keyboard: 15000.0
+------------------------------------------------------
+Product Name: Charger
+Price: 1500.0
+Quantity Sold: 10
+Total Sales for charger: 15000.0
+------------------------------------------------------
+Product Name: Iphone
+Price: 85000.0
+Quantity Sold: 2
+Total Sales for Iphone: 170000.0
+------------------------------------------------------
+Total Sales: 332000.00
+------------------------------------------------------
+Report Generated on:2025-12-27
+------------------------------------------------------
